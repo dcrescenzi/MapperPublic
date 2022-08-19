@@ -1,4 +1,4 @@
-# MapperPublic
+# MapperPublic :earth_americas:
 
 *Source code avaliable upon request.*  This was a project for a software design course that other students will be taking in the future (with a similar objective), hence the source is not public.
 
